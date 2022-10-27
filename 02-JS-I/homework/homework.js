@@ -41,7 +41,7 @@ function suma(x, y) {
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
-  return x - y;  
+  return x - y;
 }
 
 function multiplica(x, y) {
@@ -130,7 +130,7 @@ function elevarAlCuadrado(num) {
 function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
   // Tu código:
-  return num * num * num *
+  return num * num * num;
 }
 
 function elevar(num, exponent) {
@@ -177,22 +177,22 @@ function agregarSimboloExclamacion(str) {
   // Agrega un símbolo de exclamación al final de la string "str" y devuelve una nueva string
   // Ejemplo: "hello world" pasaría a ser "hello world!"
   // Tu código:
-  devolver str + "!";
+  return str + "!";
 }
 
 function combinarNombres(nombre, apellido) {
   // Devuelve "nombre" y "apellido" combinados en una string y separados por un espacio.
   // Ejemplo: "Soy", "Henry" -> "Soy Henry"
   // Tu código:
-  var combiado = nombre + " " + apellido;
-  return combinado;
+   var combinado = nombre + ' ' + apellido;
+   return combinado;
 }
 
 function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
   // "Martin" -> "Hola Martin!"
   // Tu código:
-  return "hola " + nombre + "!"
+  return "Hola " + nombre + "!";
 }
 
 function obtenerAreaRectangulo(alto, ancho) {
@@ -238,8 +238,6 @@ function esVocal(letra){
   }
   return "Dato incorrecto"
 }
-
-
 
 // No modificar nada debajo de esta línea
 // --------------------------------
