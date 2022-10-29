@@ -1,0 +1,15 @@
+. Variables : Una variable nos permite almacenar datos asignadole un valor.
+
+. Strings: Una cadena de caracteres que siempre empieza y termina con comillas " " . 
+
+. Funciones (argumentos, return) : Una funcion nos permite agrupar codigo y guardarlo para luego ejecutarlo.
+ Dentro de las funciones puede o no haber un argumento que se utiliza para darle informacion a la funcion.
+  Las funciones return devuelven un valor.
+
+. Declaraciones if : Nos permite agregar cierta logica al codigo.
+
+. Valores booleanos (true , false) : Los booleanos representan valores de logica binaria. (0, 1) 
+
+
+
+
