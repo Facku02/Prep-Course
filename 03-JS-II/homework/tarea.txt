@@ -1,0 +1,11 @@
+. For : Los bucles for son una manera de crear repeticiones en nuestro codigo y 
+nos ayuda a elaborar situaciones complejas en las que automatizamos la repeticion de varias funciones
+
+. && : Operador "Y" ("AND") Este evaluará ambas  expresiones y devolvera  verdadero si ambas expresiones son true.
+ Si uno (o ambos) de ellos es falso, este operador devolvera false.
+ 
+. || : Operador "O" ("OR") Deteminara si una de las expresiones es true.
+Devolvera true si una (o ambas) e las expresiones es true. 
+Devolvera false si ambas expresiones son false.
+
+. ! : Operador "NOT" ("NO") Este operador devolvera el valor booleano opuesto de lo que se le pasa.

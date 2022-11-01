@@ -1,0 +1,1 @@
+. Array : Un array es una lista de elementos ordenados, estos elementos pueden ser cualquier tipo de datos, incluso funciones y otros arreglos.
